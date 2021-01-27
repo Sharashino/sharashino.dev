@@ -1723,11 +1723,18 @@
     <Content Include="Fontawesome\webfonts\fa-regular-400.svg" />
     <Content Include="Fontawesome\webfonts\fa-solid-900.svg" />
     <Content Include="home.aspx" />
+    <Content Include="Images\facebook.png" />
+    <Content Include="Images\github.png" />
+    <Content Include="Images\instagram.png" />
+    <Content Include="Images\linkedin.png" />
+    <Content Include="Images\me.jpg" />
+    <Content Include="Images\projectsWall.png" />
     <Content Include="Images\QuestionBox.png" />
     <Content Include="Images\SiteLogo.png" />
     <Content Include="Images\WebsiteHeadMedium.png" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="aboutme.aspx" />
+    <Content Include="projects.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="home.aspx.cs">
@@ -1745,12 +1752,19 @@
       <DependentUpon>MainMaster.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="aboutme.aspx.cs">
+      <DependentUpon>aboutme.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="aboutme.aspx.designer.cs">
+      <DependentUpon>aboutme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="projects.aspx.cs">
+      <DependentUpon>projects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="projects.aspx.designer.cs">
+      <DependentUpon>projects.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

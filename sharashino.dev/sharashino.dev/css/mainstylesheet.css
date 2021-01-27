@@ -32,3 +32,27 @@
 	padding: 32px;
 	font-size: 3vw;
 }
+
+.aboutme {
+	background-image: url('../Images/projectsWall.png');
+}
+
+.aboutme-text {
+	padding: 32px;
+	font-size: 3vw;
+}
+
+.aboutme-desc{
+	text-align: center;
+}
+
+.aboutme-links{
+	padding: 100px;
+}
+
+.projects {
+	background-image: url('../Images/projectsWall.png');
+}
+
+.projects-links {
+}

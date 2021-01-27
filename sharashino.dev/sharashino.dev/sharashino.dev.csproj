@@ -1722,11 +1722,21 @@
     <Content Include="Fontawesome\webfonts\fa-brands-400.svg" />
     <Content Include="Fontawesome\webfonts\fa-regular-400.svg" />
     <Content Include="Fontawesome\webfonts\fa-solid-900.svg" />
+    <Content Include="home.aspx" />
+    <Content Include="Images\QuestionBox.png" />
     <Content Include="Images\SiteLogo.png" />
+    <Content Include="Images\WebsiteHeadMedium.png" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MainMaster.Master.cs">
       <DependentUpon>MainMaster.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

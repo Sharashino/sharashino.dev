@@ -8,19 +8,19 @@
 				<div class="col-md-4">
 					<center>
 						<h4>Seedling</h4>
-						<a href="https://www.instagram.com/sharashino.dev/"><img width="512" height="512" src="Images/seedling.png" /></a>
+						<a href="https://www.instagram.com/sharashino.dev/"><img width="512" height="512" src="Images/GameWalls/seedling.png" /></a>
 					</center>
 				</div>
 				<div class="col-md-4">
 					<center>
 						<h4>GAME - JBZDY</h4>
-						<a href="https://www.facebook.com/sharashino.dev"><img width="512" height="512" src="Images/jbzdygame.png" /></a>
+						<a href="https://www.facebook.com/sharashino.dev"><img width="512" height="512" src="Images/GameWalls/jbzdygame.png" /></a>
 					</center>
 				</div>
 				<div class="col-md-4">
 					<center>
 						<h4>???</h4>
-						<a href="https://github.com/Sharashino"><img width="512" height="512" src="Images/QuestionBox.png" /></a>
+						<a href="https://github.com/Sharashino"><img width="512" height="512" src="Images/GameWalls/QuestionBox.png" />/></a>
 					</center>
 				</div>
 			</div>

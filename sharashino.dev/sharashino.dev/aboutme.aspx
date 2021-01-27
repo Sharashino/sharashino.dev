@@ -31,25 +31,25 @@
 						<div class="col-md-3">
 							<center>
 								<h4>Instagram</h4>
-								<a href="https://www.instagram.com/sharashino.dev/"><img width="256" height="256" src="Images/instagram.png" /></a>
+								<a href="https://www.instagram.com/sharashino.dev/"><img width="256" height="256" src="Images/Icons/instagram.png" /></a>
 							</center>
 						</div>
 						<div class="col-md-3">
 							<center>
 								<h4>Facebook</h4>
-								<a href="https://www.facebook.com/sharashino.dev"><img width="256" height="256" src="Images/facebook.png" /></a>
+								<a href="https://www.facebook.com/sharashino.dev"><img width="256" height="256" src="Images/Icons/facebook.png" /></a>
 							</center>
 						</div>
 						<div class="col-md-3">
 							<center>
 								<h4>GitHub</h4>
-								<a href="https://github.com/Sharashino"><img width="256" height="256" src="Images/github.png" /></a>
+								<a href="https://github.com/Sharashino"><img width="256" height="256" src="Images/Icons/github.png" /></a>
 							</center>
 						</div>
 						<div class="col-md-3">
 							<center>
 								<h4>LinkedIn</h4>
-								<a href="https://www.linkedin.com/in/gadamkiewicz"><img width="256" height="256" src="Images/linkedin.png" /></a>
+								<a href="https://www.linkedin.com/in/gadamkiewicz"><img width="256" height="256" src="Images/Icons/linkedin.png" /></a>
 							</center>
 						</div>
 					</div>

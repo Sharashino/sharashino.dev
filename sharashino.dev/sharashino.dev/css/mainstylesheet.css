@@ -1,0 +1,20 @@
+﻿body {
+	font-family: 'Press Start 2P', cursive;*/
+}
+
+.footerlinks{
+	color: #ffffff;
+	text-decoration: none !important;
+}
+
+	.footerlinks:hover{
+		color: #ffd800;
+	}
+
+#footer1{
+	background-color: gray;
+}
+
+#footer2 {
+	background-color: gray;
+}

@@ -9,14 +9,14 @@
 				<div class="row">
 					<div class="col-md-6">
 						<center>
-							<img src="Images/QuestionBox.png" />
+							<img src="Images/GameWalls/QuestionBox.png" />
 							<h4>Outstanding gameplay</h4>
 							<p class="text-justify">Only the best gameplay features are being adopted to my games!</p>
 						</center>
 					</div>
 					<div class="col-md-6">
 						<center>
-							<img src="Images/QuestionBox.png" />
+							<img src="Images/GameWalls/QuestionBox.png" />
 							<h4>Totally free</h4>
 							<p class="text-justify">All my games are expensive, but there's always 100% discount!</p>
 						</center>
@@ -29,14 +29,14 @@
 				<div class="row">
 					<div class="col-md-6">
 						<center>
-							<img src="Images/QuestionBox.png" />
+							<img src="Images/GameWalls/QuestionBox.png" />
 							<h4>Sign up</h4>
 							<p class="text-justify">Use my amazing form to create your account!</p>
 						</center>
 					</div>
 					<div class="col-md-6">
 						<center>
-							<img src="Images/QuestionBox.png" />
+							<img src="Images/GameWalls/QuestionBox.png" />
 							<h4>Download</h4>
 							<p class="text-justify">You can download any game after you've signed up!</p>
 						</center>

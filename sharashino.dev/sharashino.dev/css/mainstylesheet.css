@@ -56,3 +56,12 @@
 
 .projects-links {
 }
+
+.userlogin-text{
+	text-align: right;
+}
+
+.col-centerted {
+	margin: 0 auto;
+	float: none;
+}

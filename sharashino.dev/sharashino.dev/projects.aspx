@@ -11,7 +11,7 @@
 						<a href="https://www.instagram.com/sharashino.dev/"><img width="512" height="512" src="Images/GameWalls/seedling.png" /></a>
 					</center>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-4">	
 					<center>
 						<h4>GAME - JBZDY</h4>
 						<a href="https://www.facebook.com/sharashino.dev"><img width="512" height="512" src="Images/GameWalls/jbzdygame.png" /></a>

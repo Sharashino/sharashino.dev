@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MainMaster.Master" AutoEventWireup="true" CodeBehind="adminlogin.aspx.cs" Inherits="sharashino.dev.adminlogin" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MainMaster.Master" AutoEventWireup="true" CodeBehind="AdminLogin.aspx.cs" Inherits="sharashino.dev.AdminLogin" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -30,14 +30,14 @@
 							<div class="col">
 								<label class="userlogin-text">Username</label>
 								<div class="form-group">
-									<asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Username"></asp:TextBox>
+									<asp:TextBox CssClass="form-control" ID="AdminUsernameInput" runat="server" placeholder="Username"></asp:TextBox>
 								</div>
 								<label class="userlogin-text">Password</label>
 								<div class="form-group">
-									<asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
+									<asp:TextBox CssClass="form-control" ID="AdminPasswordInput" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
 								</div>
 								<div class="form-group">
-									<asp:Button class="btn btn-success col-12 btn-lg" ID="Button1" runat="server" Text="Login" />
+									<asp:Button class="btn btn-success col-12 btn-lg" ID="Button1" runat="server" Text="Login" OnClick="AdminLoginClick" />
 								</div>
 							</div>
 						</div>

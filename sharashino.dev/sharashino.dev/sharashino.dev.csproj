@@ -76,6 +76,8 @@
     <Content Include="css\mainstylesheet.css" />
     <Content Include="Datatables\css\jquery.dataTables.min.css" />
     <Content Include="Datatables\js\jquery.dataTables.min.js" />
+    <Content Include="Downloads\jbzdy.txt" />
+    <Content Include="Downloads\seedling.txt" />
     <Content Include="Fontawesome\attribution.js" />
     <Content Include="Fontawesome\css\all.css" />
     <Content Include="Fontawesome\css\all.min.css" />

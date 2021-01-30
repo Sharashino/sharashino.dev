@@ -33,49 +33,49 @@ namespace sharashino.dev
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// LinkButton1 control.
+        /// ViewProjectsBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
+        protected global::System.Web.UI.WebControls.LinkButton ViewProjectsBtn;
 
         /// <summary>
-        /// LinkButton2 control.
+        /// LoginBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton2;
+        protected global::System.Web.UI.WebControls.LinkButton LoginBtn;
 
         /// <summary>
-        /// LinkButton3 control.
+        /// SignUpbtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton3;
+        protected global::System.Web.UI.WebControls.LinkButton SignUpbtn;
 
         /// <summary>
-        /// LinkButton4 control.
+        /// LogoutBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton4;
+        protected global::System.Web.UI.WebControls.LinkButton LogoutBtn;
 
         /// <summary>
-        /// LinkButton5 control.
+        /// HelloUsr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton5;
+        protected global::System.Web.UI.WebControls.LinkButton HelloUsr;
 
         /// <summary>
         /// ContentPlaceHolder1 control.
@@ -87,39 +87,39 @@ namespace sharashino.dev
         protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolder1;
 
         /// <summary>
-        /// LinkButton6 control.
+        /// AdminLoginBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton6;
+        protected global::System.Web.UI.WebControls.LinkButton AdminLoginBtn;
 
         /// <summary>
-        /// LinkButton11 control.
+        /// GamesMgmtBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton11;
+        protected global::System.Web.UI.WebControls.LinkButton GamesMgmtBtn;
 
         /// <summary>
-        /// LinkButton9 control.
+        /// TermsConditionsBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton9;
+        protected global::System.Web.UI.WebControls.LinkButton TermsConditionsBtn;
 
         /// <summary>
-        /// LinkButton10 control.
+        /// AccountMgmtBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton LinkButton10;
+        protected global::System.Web.UI.WebControls.LinkButton AccountMgmtBtn;
     }
 }

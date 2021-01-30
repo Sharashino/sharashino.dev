@@ -55,27 +55,27 @@
 
 					<ul class="navbar-nav">
 						<li class="nav-item active">
-							<asp:LinkButton class="nav-link" ID="LinkButton1" runat="server">
+							<asp:LinkButton class="nav-link" ID="ViewProjectsBtn" runat="server" OnClick="Viewprojectsclick">
 								View projects
 							</asp:LinkButton>
 						</li>
 						<li class="nav-item active">
-							<asp:LinkButton class="nav-link" ID="LinkButton2" runat="server">
+							<asp:LinkButton class="nav-link" ID="LoginBtn" runat="server" OnClick="Userlogin">
 								Login
 							</asp:LinkButton>
 						</li>
 						<li class="nav-item active">
-							<asp:LinkButton class="nav-link" ID="LinkButton3" runat="server">
+							<asp:LinkButton class="nav-link" ID="SignUpbtn" runat="server" OnClick="Signup">
 								Sign Up
 							</asp:LinkButton>
 						</li>
 						<li class="nav-item active">
-							<asp:LinkButton class="nav-link" ID="LinkButton4" runat="server">
+							<asp:LinkButton class="nav-link" ID="LogoutBtn" runat="server" OnClick="Logout" Visible="False">
 								Logout
 							</asp:LinkButton>
 						</li>
 						<li class="nav-item active">
-							<asp:LinkButton class="nav-link" ID="LinkButton5" runat="server">
+							<asp:LinkButton class="nav-link" ID="HelloUsr" runat="server" Visible="False">
 								Hello user
 							</asp:LinkButton>
 						</li>
@@ -93,13 +93,13 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 text-center">
                         <p>
-                            <asp:LinkButton class="footerlinks" ID="LinkButton6" runat="server">Admin Login</asp:LinkButton>
+                            <asp:LinkButton class="footerlinks" ID="AdminLoginBtn" runat="server" OnClick="AdminLoginClick">Admin Login</asp:LinkButton>
                             &nbsp;
-                            <asp:LinkButton class="footerlinks" ID="LinkButton11" runat="server">Games Management</asp:LinkButton>
+                            <asp:LinkButton class="footerlinks" ID="GamesMgmtBtn" runat="server" OnClick="GamesManagmentClick" Visible="False">Games Management</asp:LinkButton>
                             &nbsp;
-                            <asp:LinkButton class="footerlinks" ID="LinkButton9" runat="server">Terms & Conditions</asp:LinkButton>
+                            <asp:LinkButton class="footerlinks" ID="TermsConditionsBtn" runat="server" OnClick="TermsContitionsClick">Terms & Conditions</asp:LinkButton>
                             &nbsp;
-                             <asp:LinkButton class="footerlinks" ID="LinkButton10" runat="server">Account Management</asp:LinkButton>
+                             <asp:LinkButton class="footerlinks" ID="AccountMgmtBtn" runat="server" OnClick="AccountManagment" Visible="False">Account Management</asp:LinkButton>
                         </p>
                     </div>
                 </div>

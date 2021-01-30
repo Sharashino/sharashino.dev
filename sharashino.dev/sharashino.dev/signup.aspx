@@ -30,13 +30,13 @@
 							<div class="col-md-6">
 								<label class="userlogin-text">Name</label>
 								<div class="form-group">
-									<asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Name"></asp:TextBox>
+									<asp:TextBox CssClass="form-control" ID="NameInput" runat="server" placeholder="Name"></asp:TextBox>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<label class="userlogin-text">Username</label>
 								<div class="form-group">
-									<asp:TextBox CssClass="form-control" ID="TextBox3" runat="server" placeholder="Username"></asp:TextBox>
+									<asp:TextBox CssClass="form-control" ID="UsernameInput" runat="server" placeholder="Username"></asp:TextBox>
 								</div>
 							</div>
 						</div>
@@ -44,7 +44,7 @@
 							<div class="col-md-12">
 								<label>Email</label>
 								<div class="form-group col-8 mx-auto btn-lg">
-									<asp:TextBox CssClass="form-control" ID="TextBox6" runat="server" placeholder="Email" TextMode="Email"></asp:TextBox>
+									<asp:TextBox CssClass="form-control" ID="EmailInput" runat="server" placeholder="Email" TextMode="Email"></asp:TextBox>
 								</div>
 							</div>
 						</div>
@@ -52,10 +52,10 @@
 							<div class="col">
 								<label class="userlogin-text">Password</label>
 								<div class="form-group col-6 mx-auto btn-lg">
-									<asp:TextBox class="form-control" ID="TextBox2" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
+									<asp:TextBox class="form-control" ID="PasswordInput" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
 								</div>
 								<div class="form-group">
-									<a href="signup.aspx"><input class="btn btn-info col-12 btn-lg" id="Button2" type="button" value="Sign Up" /></a>
+									<asp:Button class="btn btn-success btn-block btn-lg" ID="Button1" runat="server" Text="Sign Up" OnClick="SignUpClick" />
 								</div>
 							</div>
 						</div>

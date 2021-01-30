@@ -8,19 +8,34 @@
 				<div class="col-md-4">
 					<center>
 						<h4>Seedling</h4>
-						<a href="https://www.instagram.com/sharashino.dev/"><img width="512" height="512" src="Images/GameWalls/seedling.png" /></a>
+						<img width="512" height="512" src="Images/GameWalls/seedling.png" />
+						<div class="row">
+							<div class="col">
+								<asp:Button class="btn btn-success btn-lg btn-block projects-button" ID="DownloadSeedling" runat="server" Text="Download" OnClick="DownloadSeedling_Click" />
+							</div>
+						</div>
 					</center>
 				</div>
 				<div class="col-md-4">	
 					<center>
 						<h4>GAME - JBZDY</h4>
-						<a href="https://www.facebook.com/sharashino.dev"><img width="512" height="512" src="Images/GameWalls/jbzdygame.png" /></a>
+						<img width="512" height="512" src="Images/GameWalls/jbzdygame.png" />
+						<div class="row">
+							<div class="col">
+								<asp:Button class="btn btn-success btn-lg btn-block projects-button" ID="DownloadJBZDY" runat="server" Text="Download" OnClick="DownloadJBZDY_Click"/>
+							</div>
+						</div>
 					</center>
 				</div>
 				<div class="col-md-4">
 					<center>
 						<h4>???</h4>
-						<a href="https://github.com/Sharashino"><img width="512" height="512" src="Images/GameWalls/QuestionBox.png" />/></a>
+						<img width="512" height="512" src="Images/GameWalls/QuestionBox.png" />
+						<div class="row">
+							<div class="col">
+								<asp:Button class="btn btn-success btn-lg btn-block projects-button" ID="DownloadNone" runat="server" Text="Download" Visible="False" />
+							</div>
+						</div>
 					</center>
 				</div>
 			</div>

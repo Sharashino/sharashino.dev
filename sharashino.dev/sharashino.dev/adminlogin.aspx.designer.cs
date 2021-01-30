@@ -11,26 +11,26 @@ namespace sharashino.dev
 {
 
 
-    public partial class adminlogin
+    public partial class AdminLogin
     {
 
         /// <summary>
-        /// TextBox1 control.
+        /// AdminUsernameInput control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox AdminUsernameInput;
 
         /// <summary>
-        /// TextBox2 control.
+        /// AdminPasswordInput control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox AdminPasswordInput;
 
         /// <summary>
         /// Button1 control.

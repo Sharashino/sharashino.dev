@@ -52,9 +52,11 @@
 
 .projects {
 	background-image: url('../Images/PageWalls/projectsWall.png');
+	padding: 30px;
 }
 
-.projects-links {
+.projects-button {
+	margin: 20px;
 }
 
 .userlogin-text{
@@ -64,4 +66,16 @@
 .col-centerted {
 	margin: 0 auto;
 	float: none;
+}
+
+.userlogin {
+	background-image: url('../Images/PageWalls/aboutmeWall.png');
+}
+
+.signup {
+	background-image: url('../Images/PageWalls/homeWall.png');
+}
+
+.userprofile {
+	background-image: url('../Images/PageWalls/projectsWall.png');
 }

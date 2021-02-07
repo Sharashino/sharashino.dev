@@ -2,8 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+	<div class="userlogin">
 	<div class="container">
-		<div class="userlogin">
 			<div class="row">
 				<div class="col-md-6 mx-auto">
 					<div class="card">
@@ -18,7 +18,7 @@
 							<div class="row">
 								<div class="col">
 									<center>
-										<h3>Member login</h3>
+										<h3>User login</h3>
 									</center>
 								</div>
 							</div>

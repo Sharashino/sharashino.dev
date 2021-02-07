@@ -70,10 +70,12 @@
 
 .userlogin {
 	background-image: url('../Images/PageWalls/aboutmeWall.png');
+	height: 100wh;
 }
 
 .signup {
 	background-image: url('../Images/PageWalls/homeWall.png');
+	height: 100wh;
 }
 
 .userprofile {

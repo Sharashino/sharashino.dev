@@ -11,6 +11,11 @@ namespace sharashino.dev
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["username"] != "sharashino")
+            {
+                Response.Redirect("userlogin.aspx");
+            }
+
             GamesView.DataBind();
         }
 
